@@ -1,0 +1,9 @@
+topic,x,y,term_count,total_movie_doc_hits,top_terms,top_movies,avg_document_count
+부정평/실망/과대평가,0.36519659577704655,-0.25208334214591477,202,10082,"just, best, time, bad, seen, way, ve, watched","Everything Everywhere All at Once 17%, Apex 16%, Red Notice 14%",49.91089108910891
+스토리/플롯/각본,0.30904295205320104,-0.14943691765810277,188,9604,"film, plot, better, end, didn, character, feel, ending","Apex 16%, F1 The Movie 15%, Whiplash 13%",51.08510638297872
+평가/추천/강한 호평,1.2683225673991774,0.20535077415951036,179,15222,"movie, great, good, watch, story, like, fun, really","GOAT 17%, KPop Demon Hunters 13%, F1 The Movie 13%",85.0391061452514
+연기/배우/스타 파워,0.16054727137520022,-0.06995025282650845,127,4944,"ryan, reynolds, performances, simmons, charlize, theron, performance, intense","Whiplash 29%, Apex 24%, Red Notice 21%",38.92913385826772
+정치/사회/풍자,0.20549579290511463,-0.09971729954958686,108,4833,"don, think, people, know, real, world, look, want","Don't Look Up 37%, Everything Everywhere All at Once 12%, Whiplash 11%",44.75
+액션/스포츠/움직임,0.23524331936093631,-0.06851591767692787,39,1872,"scenes, pitt, racing, brad, fan, job, cool, race","F1 The Movie 55%, Red Notice 7%, Whiplash 7%",48.0
+음악/노래/사운드,0.2919703004104963,0.0316944130905579,32,1317,"animation, songs, animated, demon, pop, kpop, hunters, catchy","KPop Demon Hunters 62%, GOAT 22%, Everything Everywhere All at Once 3%",41.15625
+다국어 리뷰,0.015826451636750182,-0.009294309270644553,25,653,"que, la, filme, pelicula, es, tempo, una, en","Whiplash 21%, Don't Look Up 16%, Everything Everywhere All at Once 14%",26.12
