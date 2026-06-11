@@ -1,0 +1,13 @@
+genre,movie_count,movies,avg_rating,5star_pct,4plus_pct,2low_pct
+Comedy,5,"Don't Look Up, Everything Everywhere All at Once, GOAT, KPop Demon Hunters, Red Notice",3.6682,40.72,60.92,21.520000000000003
+Action,4,"Apex, F1 The Movie, KPop Demon Hunters, Red Notice",3.32875,29.35,49.4,28.200000000000003
+Adventure,3,"Everything Everywhere All at Once, GOAT, KPop Demon Hunters",3.9520000000000004,52.333333333333336,71.06666666666666,17.133333333333336
+Animation,2,"GOAT, KPop Demon Hunters",4.1355,54.3,76.1,12.0
+Kids & Family,2,"GOAT, KPop Demon Hunters",4.1355,54.3,76.1,12.0
+Drama,2,"F1 The Movie, Whiplash",4.065,50.300000000000004,73.5,13.600000000000001
+Sports,2,"F1 The Movie, GOAT",3.9575000000000005,44.3,69.8,14.100000000000001
+Fantasy,2,"Everything Everywhere All at Once, KPop Demon Hunters",3.7625,51.2,66.0,22.8
+Mystery & Thriller,2,"Apex, Whiplash",3.673,40.5,60.199999999999996,22.0
+Music,1,Whiplash,4.546,66.60000000000001,88.6,4.8
+Musical,1,KPop Demon Hunters,3.94,54.0,71.0,18.2
+Sci-Fi,1,Everything Everywhere All at Once,3.585,48.4,61.0,27.400000000000002
